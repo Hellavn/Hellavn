@@ -25,5 +25,5 @@
  
 
     
-  <img align="right" alt="van-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="van-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880089463940866079/930610877017767956/download20220102205345.png">
 </div>
