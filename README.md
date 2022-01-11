@@ -5,6 +5,4 @@
 -->
 - 🔭 I’m currently working on .Net
 - 🌱 I’m currently learning Python
-- 💬 Ask me about ...
 - 📫 How to reach me: vandriele.gomes@hotmail.com
-- ⚡ Fun fact: ...
