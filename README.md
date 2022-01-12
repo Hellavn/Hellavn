@@ -25,13 +25,13 @@
   <img align="center" alt="van-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
   <img align="right" alt="van-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880089463940866079/930610877017767956/download20220102205345.png">
 </div>
-
+</n>
 <div> 
   <a href="https://instagram.com/Hellavn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/Hellavn" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href = "mailto:vandriele.gomes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vandriele-b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <p></p>
+  
   ![Snake animation](https://github.com/Hellavn/Hellavn/blob/output/github-contribution-grid-snake.svg)
  
 </div>
