@@ -6,8 +6,6 @@
 <!--
 **Hellavn/Hellavn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 🔭 Atualmente trabalho com .Net
-- 🌱 Estou aprendendo Python
 
 <p> </p>
 <div align="center">
