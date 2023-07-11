@@ -20,7 +20,6 @@
   <img align="center" alt="van-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" alt="van-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="van-SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-  <img align="right" alt="van-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/880089463940866079/930610877017767956/download20220102205345.png">
 </div>
   
   ##
